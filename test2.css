@@ -1,0 +1,15 @@
+#container {
+    text-align: center;
+}
+
+#header {
+    text-underline-offset: 10px;
+}
+
+#footer {
+    text-align: center;
+}
+
+/*
+    
+    background-position: center;
